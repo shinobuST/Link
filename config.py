@@ -34,16 +34,15 @@ START_MSG = os.environ.get("START_MESSAGE", "<b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛ�
 HELP = os.environ.get("HELP_MESSAGE", "<b><blockquote>◈ Aɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/+rCk4tAtSf9owMTJl>ɴᴇᴛᴡᴏʀᴋ</a>\n◈ Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/+6cJlqwnjGes4ZjQ1>Support</a></blockquote></b>")
 ABOUT = os.environ.get("ABOUT_MESSAGE", "<b><blockquote expandable>This bot is developed by Yato (@sitaratoons_support) to securely share Telegram channel links with temporary invite links, protecting your channels from copyright issues.</b>")
 
-ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/otakuflix_network'>ᴏᴛᴀᴋᴜғʟɪx</a>
-<blockquote expandable>›› ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/codeflix_bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a>
+ABOUT_TXT = """<b><blockquote expandable>
 ›› ᴏᴡɴᴇʀ: <a href='https://t.me/Aloksd0'>Owner</a>
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
-›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a></b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>
 <blockquote expandable>◈ Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ:  <a href='https://t.me/movieflixspot'>Anime Support</a>
-›› ◈ Aɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ:  <a href='https://t.me/webseries_flix'>All Anime hindi dub</a>
+◈ Aɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ:  <a href='https://t.me/webseries_flix'>All Anime hindi dub</a>
 </b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
