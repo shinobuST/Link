@@ -41,8 +41,8 @@ ABOUT_TXT = """<b><blockquote expandable>
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a></b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>
-<blockquote expandable>◈ Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ:  <a href='https://t.me/movieflixspot'>Anime Support</a>
-◈ Aɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ:  <a href='https://t.me/webseries_flix'>All Anime hindi dub</a>
+<blockquote expandable>◈ Sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ:  <a href='https://t.me/+6cJlqwnjGes4ZjQ1'>Anime Support</a>
+◈ Aɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ:  <a href='https://t.me/+rCk4tAtSf9owMTJl'>All Anime hindi dub</a>
 </b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
